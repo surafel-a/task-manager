@@ -11,8 +11,11 @@ A simple task manager built with React and Tailwind CSS. You can:
 ## 💡 Getting Started
 
 ```bash
-git clone https://github.com/[temporary]/task-manager.git
+git clone https://github.com/surafel-a/task-manager.git
 cd task-manager
 npm install
 npm run dev
 ```
+## Live Demo
+
+If you want to see the working website, [click here](https://s-taskmanager.netlify.app/)
